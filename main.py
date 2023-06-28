@@ -2,10 +2,12 @@ from http.server import HTTPServer, SimpleHTTPRequestHandler
 from livereload import Server
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import json
+from more_itertools import chunked
 
 
 def on_reload():
     books_db = get_books_data()
+    book_db = [{k: v} for k, v in books_db.items()]
 
     env = Environment(
         loader=FileSystemLoader('.'),
@@ -15,7 +17,7 @@ def on_reload():
     template = env.get_template('template.html')
 
     rendered_page = template.render(
-        books=books_db,
+        books=chunked(book_db, 2),
     )
 
     with open('index.html', 'w', encoding="utf8") as file:

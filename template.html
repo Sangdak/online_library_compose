@@ -11,23 +11,32 @@
     <title>Hello, world!</title>
   </head>
   <body>
-
-    {% for key, value in books.items() %}
-    <div class="card mb-3" style="max-width: 540px;">
-      <div class="row no-gutters">
-        <div class="col-md-4">
-          <img src="{{ value.img_src|urlencode }}" class="card-img" alt="Обложка: {{ value.title }}">
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h5 class="card-title">{{ value.author }}</h5>
-            <p class="card-text">{{ value.title }}</p>
-              <a href="{{ value.book_path|urlencode }}">ЧИТАТЬ</a>
-            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-          </div>
+    {% for book_pair in books %}
+      <div class="container">
+        <div class="row">
+          {% for book in book_pair %}
+            <div class="col">
+              {% for key, value in book.items() %}
+                <div class="card mb-3" style="max-width: 540px;">
+                  <div class="row no-gutters">
+                    <div class="col-md-4">
+                     <img src="{{ value['img_src']|urlencode }}" class="card-img" alt="Обложка: {{ value['title'] }}">
+                    </div>
+                    <div class="col-md-8">
+                      <div class="card-body">
+                        <h5 class="card-title">{{ value['author'] }}</h5>
+                        <p class="card-text">{{ value['title'] }}</p>
+                        <a href="{{ value['book_path']|urlencode }}">ЧИТАТЬ</a>
+                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+          {% endfor %}
         </div>
       </div>
-    </div>
     {% endfor %}
 
     <!-- Optional JavaScript; choose one of the two! -->
