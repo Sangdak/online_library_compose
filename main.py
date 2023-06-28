@@ -1,26 +1,41 @@
 from http.server import HTTPServer, SimpleHTTPRequestHandler
+from livereload import Server
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import json
 
 
-env = Environment(
-    loader=FileSystemLoader('.'),
-    autoescape=select_autoescape(['html', 'xml'])
-)
+def on_reload():
+    books_db = get_books_data()
 
-template = env.get_template('template.html')
+    env = Environment(
+        loader=FileSystemLoader('.'),
+        autoescape=select_autoescape(['html', 'xml'])
+    )
 
-with open('results.json', 'r') as results:
-    results_json = results.read()
+    template = env.get_template('template.html')
 
-book_db = json.loads(results_json.strip('[]'))
+    rendered_page = template.render(
+        books=books_db,
+    )
 
-rendered_page = template.render(
-    books=book_db,
-)
+    with open('index.html', 'w', encoding="utf8") as file:
+        file.write(rendered_page)
+    print("Content refreshed")
 
-with open('index.html', 'w', encoding="utf8") as file:
-    file.write(rendered_page)
 
-server = HTTPServer(('127.0.0.1', 8000), SimpleHTTPRequestHandler)
-server.serve_forever()
+def get_books_data():
+    with open('results.json', 'r') as results:
+        results_json = results.read()
+
+    return json.loads(results_json)
+
+
+def main():
+    on_reload()
+    server = Server()
+    server.watch('template.html', on_reload)
+    server.serve(root='.')
+
+
+if __name__ == '__main__':
+    main()
