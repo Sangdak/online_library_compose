@@ -44,6 +44,11 @@
                       <div class="card-body">
                         <h5 class="card-title">{{ value['author'] }}</h5>
                         <p class="card-text">{{ value['title'] }}</p>
+                          {% for genre in value["genres"] %}
+                            <span class="badge badge-light">{{ genre }}</span><br>
+                          {% endfor %}
+                        <br>
+                        <br>
                         <a href="../{{ value['book_path']|urlencode }}" target="_blank">ЧИТАТЬ</a>
 {#                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>#}
                       </div>
