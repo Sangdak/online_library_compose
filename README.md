@@ -34,6 +34,9 @@ The script itself generates pages from existing files and saves them into the `p
 
 Created pages can work locally without connecting to the network.
 
+You can check out the look and feel of the site by following this link:
+https://sangdak.github.io/online_library_compose/pages/index1.html
+
 ## Project goals
 
 The code is written for educational purposes - this is a lesson in a course on Python and web development at [Devman](https://dvmn.org/).
