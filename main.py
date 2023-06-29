@@ -16,9 +16,10 @@ def on_reload():
 
     os.makedirs('pages', exist_ok=True)
 
-    books_divided_by_pages = chunked(book_db, BOOKS_ON_PAGE_AMOUNT)
+    books_divided_by_pages = list(chunked(book_db, BOOKS_ON_PAGE_AMOUNT))
+    total_num_of_pages = len(books_divided_by_pages)
 
-    print(books_divided_by_pages)
+    print(total_num_of_pages)
 
     for page_number, page_content in enumerate(books_divided_by_pages, start=1):
         env = Environment(
@@ -30,13 +31,13 @@ def on_reload():
 
         rendered_page = template.render(
             books=chunked(page_content, 2),
+            current_page_number=page_number,
+            total_number_of_pages=total_num_of_pages,
         )
 
         filepath = Path('pages', f'index{page_number}.html')
         with open(filepath, 'w', encoding="utf8") as file:
             file.write(rendered_page)
-
-        print("Content refreshed")
 
 
 def get_books_data():

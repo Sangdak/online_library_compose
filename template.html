@@ -8,9 +8,27 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>Selfmade Library</title>
   </head>
   <body>
+
+    <nav aria-label="Library page navigation">
+      <ul class="pagination justify-content-center m-3">
+        {% for n in range(total_number_of_pages + 2) %}
+          {% if loop.first %}
+            <li class="page-item {% if current_page_number == 1 %}disabled{% endif %}">
+              <a class="page-link" href="./index{{ current_page_number - 1 }}.html" tabindex="-1">Назад</a>
+          {% elif loop.last %}
+            <li class="page-item {% if current_page_number == total_number_of_pages %}disabled{% endif %}">
+              <a class="page-link" href="./index{{ current_page_number + 1 }}.html">Вперёд</a>
+          {% else %}
+            <li class="page-item {% if current_page_number == n %}active{% endif %}"><a class="page-link" href="./index{{ n }}.html">{{ n }}</a>
+          {% endif %}
+            </li>
+        {% endfor %}
+      </ul>
+    </nav>
+
     {% for book_pair in books %}
       <div class="container">
         <div class="row">
@@ -20,13 +38,13 @@
                 <div class="card mb-3" style="max-width: 540px;">
                   <div class="row no-gutters">
                     <div class="col-md-4">
-                     <img src="{{ value['img_src']|urlencode }}" class="card-img" alt="Обложка: {{ value['title'] }}">
+                     <img src="../{{ value['img_src']|urlencode }}" class="card-img" alt="Обложка: {{ value['title'] }}">
                     </div>
                     <div class="col-md-8">
                       <div class="card-body">
                         <h5 class="card-title">{{ value['author'] }}</h5>
                         <p class="card-text">{{ value['title'] }}</p>
-                        <a href="{{ value['book_path']|urlencode }}" target="_blank">ЧИТАТЬ</a>
+                        <a href="../{{ value['book_path']|urlencode }}" target="_blank">ЧИТАТЬ</a>
 {#                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>#}
                       </div>
                     </div>
