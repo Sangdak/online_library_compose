@@ -19,8 +19,6 @@ def on_reload():
     books_divided_by_pages = list(chunked(book_db, BOOKS_ON_PAGE_AMOUNT))
     total_num_of_pages = len(books_divided_by_pages)
 
-    print(total_num_of_pages)
-
     for page_number, page_content in enumerate(books_divided_by_pages, start=1):
         env = Environment(
             loader=FileSystemLoader('.'),
