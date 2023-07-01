@@ -1,12 +1,13 @@
-import os.path
-from time import sleep
-from pathlib import Path
-from urllib.parse import urlparse, urljoin
-from pathvalidate import sanitize_filename
 import argparse
-import requests
-from bs4 import BeautifulSoup
 import json
+import os.path
+from pathlib import Path
+from time import sleep
+from urllib.parse import urlparse, urljoin
+
+from bs4 import BeautifulSoup
+from pathvalidate import sanitize_filename
+import requests
 
 
 def create_parser():
