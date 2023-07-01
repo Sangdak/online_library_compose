@@ -159,7 +159,7 @@ def download_book_txt(
         book_id: int,
         filename: str,
         destination: Path,
-        folder: str = 'books/'
+        folder: str = 'media/books/'
 ) -> str:
     """Скачать текстовый файл книги.
 
@@ -194,7 +194,7 @@ def download_book_txt(
 def download_book_cover(
         url: str,
         destination: Path,
-        folder: str = 'images/'
+        folder: str = 'media/images/'
 ) -> str:
     """Скачать изображения обложек книг.
 
@@ -312,7 +312,7 @@ def main():
                 number_of_connection_attempts -= 1
 
     json_filepath = os.path.join(
-        Path(args.json_path) if args.json_path else Path.cwd(),
+        Path(args.json_path) if args.json_path else Path.cwd(), 'media',
         'results.json'
     )
     with open(json_filepath, 'a', encoding='utf-8') as file:

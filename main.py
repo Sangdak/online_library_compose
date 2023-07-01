@@ -41,7 +41,7 @@ def on_reload():
 
 
 def get_books_data():
-    with open('results.json', 'r') as results:
+    with open('media/results.json', 'r') as results:
         results_json = results.read()
 
     return json.loads(results_json)

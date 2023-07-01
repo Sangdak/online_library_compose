@@ -6,8 +6,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19003.Абстрактное мышление.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19003.Абстрактное мышление.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19004": {
   "title": "Ад для флибустьеров",
@@ -20,8 +20,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19004.Ад для флибустьеров.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19004.Ад для флибустьеров.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19005": {
   "title": "Ад есть ад",
@@ -39,8 +39,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19005.Ад есть ад.txt",
-  "img_src": "images/19005.jpg"
+  "book_path": "media/books/19005.Ад есть ад.txt",
+  "img_src": "media/images/19005.jpg"
  },
  "19009": {
   "title": "Ад - это отсутствие бога",
@@ -53,8 +53,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19009.Ад - это отсутствие бога.txt",
-  "img_src": "images/19009.jpg"
+  "book_path": "media/books/19009.Ад - это отсутствие бога.txt",
+  "img_src": "media/images/19009.jpg"
  },
  "19011": {
   "title": "Адам Вишневский-Снерг - биография",
@@ -63,8 +63,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19011.Адам Вишневский-Снерг - биография.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19011.Адам Вишневский-Снерг - биография.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19012": {
   "title": "Адам без Евы",
@@ -75,8 +75,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19012.Адам без Евы.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19012.Адам без Евы.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19013": {
   "title": "Адам и Ева - 2",
@@ -88,8 +88,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19013.Адам и Ева - 2.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19013.Адам и Ева - 2.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19014": {
   "title": "Адам и Ева",
@@ -98,8 +98,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19014.Адам и Ева.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19014.Адам и Ева.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19015": {
   "title": "Адаптация",
@@ -110,8 +110,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19015.Адаптация.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19015.Адаптация.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19016": {
   "title": "Адаптатор",
@@ -122,8 +122,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19016.Адаптатор.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19016.Адаптатор.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19017": {
   "title": "Адаптивная жена",
@@ -132,8 +132,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19017.Адаптивная жена.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19017.Адаптивная жена.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19019": {
   "title": "Адепт (Адепт - 1)",
@@ -142,8 +142,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19019.Адепт (Адепт - 1).txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19019.Адепт (Адепт - 1).txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19020": {
   "title": "Адепт Источника",
@@ -152,8 +152,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19020.Адепт Источника.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19020.Адепт Источника.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19021": {
   "title": "Адепт Сергеев",
@@ -164,8 +164,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19021.Адепт Сергеев.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19021.Адепт Сергеев.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19025": {
   "title": "Адмиральский час",
@@ -174,8 +174,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19025.Адмиральский час.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19025.Адмиральский час.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19031": {
   "title": "Адские лики Марса",
@@ -184,8 +184,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19031.Адские лики Марса.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19031.Адские лики Марса.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19035": {
   "title": "Адский модерн",
@@ -194,8 +194,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19035.Адский модерн.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19035.Адский модерн.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19036": {
   "title": "Адский огонь",
@@ -218,8 +218,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19036.Адский огонь.txt",
-  "img_src": "images/19036.jpg"
+  "book_path": "media/books/19036.Адский огонь.txt",
+  "img_src": "media/images/19036.jpg"
  },
  "19037": {
   "title": "Адский житель",
@@ -230,8 +230,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19037.Адский житель.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19037.Адский житель.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19041": {
   "title": "Адвокату - два миллиона",
@@ -242,8 +242,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19041.Адвокату - два миллиона.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19041.Адвокату - два миллиона.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19042": {
   "title": "Афоризмы",
@@ -252,8 +252,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19042.Афоризмы.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19042.Афоризмы.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19043": {
   "title": "Афра",
@@ -262,8 +262,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19043.Афра.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19043.Афра.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19046": {
   "title": "Африканская история",
@@ -272,8 +272,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19046.Африканская история.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19046.Африканская история.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19047": {
   "title": "Африканская народная сказка",
@@ -282,8 +282,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19047.Африканская народная сказка.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19047.Африканская народная сказка.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19048": {
   "title": "Афродита (2080)",
@@ -292,8 +292,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19048.Афродита (2080).txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19048.Афродита (2080).txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19050": {
   "title": "Агасфер",
@@ -302,8 +302,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19050.Агасфер.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19050.Агасфер.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19051": {
   "title": "Агава Супсова",
@@ -312,8 +312,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19051.Агава Супсова.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19051.Агава Супсова.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19057": {
   "title": "Агент Тартара",
@@ -335,8 +335,8 @@
    "Космическая фантастика",
    "Научная фантастика"
   ],
-  "book_path": "books/19057.Агент Тартара.txt",
-  "img_src": "images/19057.jpg"
+  "book_path": "media/books/19057.Агент Тартара.txt",
+  "img_src": "media/images/19057.jpg"
  },
  "19061": {
   "title": "Агент Хаоса",
@@ -345,8 +345,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19061.Агент Хаоса.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19061.Агент Хаоса.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19062": {
   "title": "Агент Звездного корпуса",
@@ -358,8 +358,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19062.Агент Звездного корпуса.txt",
-  "img_src": "images/19062.jpg"
+  "book_path": "media/books/19062.Агент Звездного корпуса.txt",
+  "img_src": "media/images/19062.jpg"
  },
  "19063": {
   "title": "Агент чужой планеты",
@@ -368,8 +368,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19063.Агент чужой планеты.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19063.Агент чужой планеты.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19064": {
   "title": "Агент галактики",
@@ -378,8 +378,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19064.Агент галактики.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19064.Агент галактики.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19065": {
   "title": "Агент из будущего",
@@ -388,8 +388,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19065.Агент из будущего.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19065.Агент из будущего.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19066": {
   "title": "Агент космического сыска",
@@ -402,8 +402,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19066.Агент космического сыска.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19066.Агент космического сыска.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19067": {
   "title": "Агент нокке, или на войне как на войне",
@@ -412,8 +412,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19067.Агент нокке, или на войне как на войне.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19067.Агент нокке, или на войне как на войне.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19068": {
   "title": "Агент перемен (Лиад - 2)",
@@ -422,8 +422,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19068.Агент перемен (Лиад - 2).txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19068.Агент перемен (Лиад - 2).txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19069": {
   "title": "Агент перемен",
@@ -432,8 +432,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19069.Агент перемен.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19069.Агент перемен.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19071": {
   "title": "Агент",
@@ -442,8 +442,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19071.Агент.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19071.Агент.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19072": {
   "title": "Агент X-100-C",
@@ -452,8 +452,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19072.Агент X-100-C.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19072.Агент X-100-C.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19076": {
   "title": "Агнесса на Луне",
@@ -464,8 +464,8 @@
    "Прочие приключения",
    "Фэнтези"
   ],
-  "book_path": "books/19076.Агнесса на Луне.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19076.Агнесса на Луне.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19079": {
   "title": "Аида",
@@ -476,8 +476,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19079.Аида.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19079.Аида.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19080": {
   "title": "Аидовы тени",
@@ -488,8 +488,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19080.Аидовы тени.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19080.Аидовы тени.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19081": {
   "title": "Айболит-99",
@@ -498,8 +498,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19081.Айболит-99.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19081.Айболит-99.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19083": {
   "title": "Аэрогарды",
@@ -508,8 +508,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19083.Аэрогарды.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19083.Аэрогарды.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19085": {
   "title": "Айсберг Тауматы",
@@ -518,8 +518,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19085.Айсберг Тауматы.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19085.Айсберг Тауматы.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19086": {
   "title": "Айси",
@@ -528,8 +528,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19086.Айси.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19086.Айси.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19087": {
   "title": "Академия Биссектриса",
@@ -538,8 +538,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19087.Академия Биссектриса.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19087.Академия Биссектриса.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19091": {
   "title": "Академия и Земля",
@@ -552,8 +552,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19091.Академия и Земля.txt",
-  "img_src": "images/19091.jpg"
+  "book_path": "media/books/19091.Академия и Земля.txt",
+  "img_src": "media/images/19091.jpg"
  },
  "19092": {
   "title": "Академия и хаос",
@@ -562,8 +562,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19092.Академия и хаос.txt",
-  "img_src": "images/19092.jpg"
+  "book_path": "media/books/19092.Академия и хаос.txt",
+  "img_src": "media/images/19092.jpg"
  },
  "19094": {
   "title": "Академия теней (Становление Темной Школы - 2)",
@@ -572,8 +572,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19094.Академия теней (Становление Темной Школы - 2).txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19094.Академия теней (Становление Темной Школы - 2).txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19097": {
   "title": "Академик",
@@ -584,8 +584,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19097.Академик.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19097.Академик.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19098": {
   "title": "Академонгородок",
@@ -597,8 +597,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19098.Академонгородок.txt",
-  "img_src": "images/19098.jpg"
+  "book_path": "media/books/19098.Академонгородок.txt",
+  "img_src": "media/images/19098.jpg"
  },
  "19099": {
   "title": "Акамие, или Любимая игрушка судьбы",
@@ -612,8 +612,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19099.Акамие, или Любимая игрушка судьбы.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19099.Акамие, или Любимая игрушка судьбы.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19102": {
   "title": "Акционерное общество Золотой Ангел",
@@ -622,8 +622,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19102.Акционерное общество Золотой Ангел.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19102.Акционерное общество Золотой Ангел.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19104": {
   "title": "Акселератор",
@@ -632,8 +632,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19104.Акселератор.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19104.Акселератор.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19107": {
   "title": "Акула",
@@ -642,8 +642,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19107.Акула.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19107.Акула.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19108": {
   "title": "Акулу еще не съели! (Акулу цъели - 1)",
@@ -652,8 +652,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19108.Акулу еще не съели! (Акулу цъели - 1).txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19108.Акулу еще не съели! (Акулу цъели - 1).txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19111": {
   "title": "Акулу хотят съесть ! (Акулу цъели - 2)",
@@ -662,8 +662,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19111.Акулу хотят съесть ! (Акулу цъели - 2).txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19111.Акулу хотят съесть ! (Акулу цъели - 2).txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19112": {
   "title": "Акулы",
@@ -674,8 +674,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19112.Акулы.txt",
-  "img_src": "images/19112.jpg"
+  "book_path": "media/books/19112.Акулы.txt",
+  "img_src": "media/images/19112.jpg"
  },
  "19114": {
   "title": "Акванавты",
@@ -687,8 +687,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19114.Акванавты.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19114.Акванавты.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19116": {
   "title": "Аквариумы",
@@ -697,8 +697,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19116.Аквариумы.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19116.Аквариумы.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19121": {
   "title": "Альфа-ромео",
@@ -709,8 +709,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19121.Альфа-ромео.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19121.Альфа-ромео.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19123": {
   "title": "Альфа и омега",
@@ -721,8 +721,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19123.Альфа и омега.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19123.Альфа и омега.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19124": {
   "title": "Альфред Целлерман - Группенфюрер Луи XVI",
@@ -733,8 +733,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19124.Альфред Целлерман - Группенфюрер Луи XVI.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19124.Альфред Целлерман - Группенфюрер Луи XVI.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19126": {
   "title": "Альтернатива - Экранопланы !",
@@ -743,8 +743,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19126.Альтернатива - Экранопланы !.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19126.Альтернатива - Экранопланы !.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19127": {
   "title": "Альтернатива",
@@ -753,8 +753,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19127.Альтернатива.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19127.Альтернатива.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19128": {
   "title": "Альтернативная история",
@@ -763,8 +763,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19128.Альтернативная история.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19128.Альтернативная история.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19130": {
   "title": "Альтруисты",
@@ -773,8 +773,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19130.Альтруисты.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19130.Альтруисты.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19131": {
   "title": "Альтруизин",
@@ -783,8 +783,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19131.Альтруизин.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19131.Альтруизин.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19132": {
   "title": "Алая Книга Западных Пределов",
@@ -793,8 +793,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19132.Алая Книга Западных Пределов.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19132.Алая Книга Западных Пределов.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19133": {
   "title": "Алая чума",
@@ -806,8 +806,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19133.Алая чума.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19133.Алая чума.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19134": {
   "title": "Алая книга Готреда",
@@ -816,8 +816,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19134.Алая книга Готреда.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19134.Алая книга Готреда.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19136": {
   "title": "Аламагуса",
@@ -826,8 +826,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19136.Аламагуса.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19136.Аламагуса.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19137": {
   "title": "Аламазон и его пехота",
@@ -836,8 +836,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19137.Аламазон и его пехота.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19137.Аламазон и его пехота.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19140": {
   "title": "Александр-наживка",
@@ -846,8 +846,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19140.Александр-наживка.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19140.Александр-наживка.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19141": {
   "title": "Александр Александрович Малиновский (Богданов)",
@@ -856,8 +856,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19141.Александр Александрович Малиновский (Богданов).txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19141.Александр Александрович Малиновский (Богданов).txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19142": {
   "title": "Александр Бог",
@@ -869,8 +869,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19142.Александр Бог.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19142.Александр Бог.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19143": {
   "title": "Александр Лаврентьевич Колпаков - об авторе",
@@ -881,8 +881,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19143.Александр Лаврентьевич Колпаков - об авторе.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19143.Александр Лаврентьевич Колпаков - об авторе.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19144": {
   "title": "Александр Петрович и Вероятностный Демон",
@@ -891,8 +891,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19144.Александр Петрович и Вероятностный Демон.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19144.Александр Петрович и Вероятностный Демон.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19148": {
   "title": "Алешкин и Туб",
@@ -903,8 +903,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19148.Алешкин и Туб.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19148.Алешкин и Туб.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19149": {
   "title": "Алгебра любви",
@@ -913,8 +913,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19149.Алгебра любви.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19149.Алгебра любви.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19150": {
   "title": "Алгоритм Вселенной",
@@ -923,8 +923,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19150.Алгоритм Вселенной.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19150.Алгоритм Вселенной.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19151": {
   "title": "Алгоритм невозможного (По ту сторону Вселенной - 2)",
@@ -933,8 +933,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19151.Алгоритм невозможного (По ту сторону Вселенной - 2).txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19151.Алгоритм невозможного (По ту сторону Вселенной - 2).txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19152": {
   "title": "Алгоритм успеха",
@@ -943,8 +943,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19152.Алгоритм успеха.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19152.Алгоритм успеха.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19153": {
   "title": "Алгоритм",
@@ -953,8 +953,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19153.Алгоритм.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19153.Алгоритм.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19155": {
   "title": "Алиби",
@@ -964,8 +964,8 @@
    "Научная фантастика",
    "Прочие Детективы"
   ],
-  "book_path": "books/19155.Алиби.txt",
-  "img_src": "images/19155.jpg"
+  "book_path": "media/books/19155.Алиби.txt",
+  "img_src": "media/images/19155.jpg"
  },
  "19156": {
   "title": "Алиса",
@@ -977,8 +977,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19156.Алиса.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19156.Алиса.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19157": {
   "title": "Алиска",
@@ -987,8 +987,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19157.Алиска.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19157.Алиска.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19159": {
   "title": "Алконост",
@@ -997,8 +997,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19159.Алконост.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19159.Алконост.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19160": {
   "title": "Аллергия",
@@ -1007,8 +1007,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19160.Аллергия.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19160.Аллергия.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19161": {
   "title": "Алло, Парнас!",
@@ -1020,8 +1020,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19161.Алло, Парнас!.txt",
-  "img_src": "images/19161.jpg"
+  "book_path": "media/books/19161.Алло, Парнас!.txt",
+  "img_src": "media/images/19161.jpg"
  },
  "19162": {
   "title": "Алло, Парнас !",
@@ -1030,8 +1030,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19162.Алло, Парнас !.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19162.Алло, Парнас !.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19163": {
   "title": "Алмаз Шах",
@@ -1044,8 +1044,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19163.Алмаз Шах.txt",
-  "img_src": "images/19163.jpg"
+  "book_path": "media/books/19163.Алмаз Шах.txt",
+  "img_src": "media/images/19163.jpg"
  },
  "19164": {
   "title": "Алмазная Маска (Галактическое Содружество - 2)",
@@ -1054,8 +1054,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19164.Алмазная Маска (Галактическое Содружество - 2).txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19164.Алмазная Маска (Галактическое Содружество - 2).txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19166": {
   "title": "Алмазная свинка",
@@ -1066,8 +1066,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19166.Алмазная свинка.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19166.Алмазная свинка.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19171": {
   "title": "Алмазный дым",
@@ -1079,8 +1079,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19171.Алмазный дым.txt",
-  "img_src": "images/19171.jpg"
+  "book_path": "media/books/19171.Алмазный дым.txt",
+  "img_src": "media/images/19171.jpg"
  },
  "19175": {
   "title": "Алогичные",
@@ -1089,8 +1089,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19175.Алогичные.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19175.Алогичные.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19176": {
   "title": "Алтарь Василиска (Храм Саламандры - 2)",
@@ -1102,8 +1102,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19176.Алтарь Василиска (Храм Саламандры - 2).txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19176.Алтарь Василиска (Храм Саламандры - 2).txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19180": {
   "title": "Алхимия любви",
@@ -1112,8 +1112,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19180.Алхимия любви.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19180.Алхимия любви.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19181": {
   "title": "Алхимик и колдунья",
@@ -1122,8 +1122,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19181.Алхимик и колдунья.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19181.Алхимик и колдунья.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19185": {
   "title": "Алые паруса - 2",
@@ -1134,8 +1134,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19185.Алые паруса - 2.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19185.Алые паруса - 2.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19187": {
   "title": "Амальгама миров",
@@ -1144,8 +1144,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19187.Амальгама миров.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19187.Амальгама миров.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19188": {
   "title": "Амалрик",
@@ -1154,8 +1154,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19188.Амалрик.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19188.Амалрик.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19189": {
   "title": "Аманда Морган",
@@ -1164,8 +1164,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19189.Аманда Морган.txt",
-  "img_src": "images/19189.jpg"
+  "book_path": "media/books/19189.Аманда Морган.txt",
+  "img_src": "media/images/19189.jpg"
  },
  "19190": {
   "title": "Аманжол",
@@ -1174,8 +1174,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19190.Аманжол.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19190.Аманжол.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19191": {
   "title": "Амазония, япданг Восточный",
@@ -1184,8 +1184,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19191.Амазония, япданг Восточный.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19191.Амазония, япданг Восточный.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19197": {
   "title": "Американская дуэль",
@@ -1194,8 +1194,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19197.Американская дуэль.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19197.Американская дуэль.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19204": {
   "title": "Амфитеатр",
@@ -1204,8 +1204,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19204.Амфитеатр.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19204.Амфитеатр.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19207": {
   "title": "Амнезия творца",
@@ -1216,8 +1216,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19207.Амнезия творца.txt",
-  "img_src": "images/19207.jpg"
+  "book_path": "media/books/19207.Амнезия творца.txt",
+  "img_src": "media/images/19207.jpg"
  },
  "19208": {
   "title": "Амнезия",
@@ -1226,8 +1226,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19208.Амнезия.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19208.Амнезия.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19209": {
   "title": "Амнистия",
@@ -1236,8 +1236,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19209.Амнистия.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19209.Амнистия.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19210": {
   "title": "Ампирный пасьянс",
@@ -1246,8 +1246,8 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19210.Ампирный пасьянс.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19210.Ампирный пасьянс.txt",
+  "img_src": "media/images/nopic.gif"
  },
  "19211": {
   "title": "Амплитуда радости",
@@ -1256,7 +1256,7 @@
   "genres": [
    "Научная фантастика"
   ],
-  "book_path": "books/19211.Амплитуда радости.txt",
-  "img_src": "images/nopic.gif"
+  "book_path": "media/books/19211.Амплитуда радости.txt",
+  "img_src": "media/images/nopic.gif"
  }
 }
