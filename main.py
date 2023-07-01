@@ -8,6 +8,7 @@ from more_itertools import chunked
 
 
 BOOKS_ON_PAGE_AMOUNT = 20
+NUMBER_COLUMNS_ON_PAGE = 2
 
 
 def on_reload():
@@ -28,7 +29,7 @@ def on_reload():
         template = env.get_template('template.html')
 
         rendered_page = template.render(
-            books=chunked(page_content, 2),
+            books=chunked(page_content, NUMBER_COLUMNS_ON_PAGE),
             current_page_number=page_number,
             total_number_of_pages=total_num_of_pages,
         )
