@@ -38,7 +38,7 @@ def on_reload(db_path):
         )
 
         filepath = Path('pages', f'index{page_number}.html')
-        with open(filepath, 'w', encoding="utf8") as file:
+        with open(filepath, 'w', encoding='utf8') as file:
             file.write(rendered_page)
 
 
