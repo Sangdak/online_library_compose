@@ -42,9 +42,9 @@ def on_reload(db_path):
 
 def get_books_data(filepath):
     with open(filepath, 'r') as results:
-        results_json = results.read()
+        results_json = json.load(results)
 
-    return json.loads(results_json)
+    return results_json
 
 
 def main(db_file: str):
