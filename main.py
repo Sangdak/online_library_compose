@@ -1,3 +1,4 @@
+import argparse
 import json
 import os
 from pathlib import Path
@@ -11,8 +12,8 @@ BOOKS_ON_PAGE_AMOUNT = 20
 NUMBER_COLUMNS_ON_PAGE = 2
 
 
-def on_reload():
-    books_db = get_books_data()
+def on_reload(db_path):
+    books_db = get_books_data(db_path)
     book_db = [{k: v} for k, v in books_db.items()]
 
     os.makedirs('pages', exist_ok=True)
@@ -39,15 +40,34 @@ def on_reload():
             file.write(rendered_page)
 
 
-def get_books_data():
-    with open('media/results.json', 'r') as results:
+def get_books_data(filepath):
+    with open(filepath, 'r') as results:
         results_json = results.read()
 
     return json.loads(results_json)
 
 
-if __name__ == '__main__':
-    on_reload()
+def main(db_file: str):
+    on_reload(db_file)
     server = Server()
     server.watch('template.html', on_reload)
     server.serve(root='.')
+
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(
+        prog='get_books',
+        description='Downloading books by category from "tululu.org".',
+    )
+
+    parser.add_argument(
+        '--file',
+        help='Specify filepath for json file with books'
+             'data (by default "media/results.json").',
+        type=str,
+        default='media/results.json',
+    )
+    args = parser.parse_args()
+    file_path = args.file
+
+    main(file_path)
