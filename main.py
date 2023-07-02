@@ -13,7 +13,9 @@ NUMBER_COLUMNS_ON_PAGE = 2
 
 
 def on_reload(db_path):
-    books_db = get_books_data(db_path)
+    with open(db_path, 'r') as results:
+        books_db = json.load(results)
+
     book_db = [{k: v} for k, v in books_db.items()]
 
     os.makedirs('pages', exist_ok=True)
@@ -38,13 +40,6 @@ def on_reload(db_path):
         filepath = Path('pages', f'index{page_number}.html')
         with open(filepath, 'w', encoding="utf8") as file:
             file.write(rendered_page)
-
-
-def get_books_data(filepath):
-    with open(filepath, 'r') as results:
-        results_json = json.load(results)
-
-    return results_json
 
 
 def main(db_file: str):
