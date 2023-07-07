@@ -34,7 +34,7 @@ The script itself generates pages from existing files and saves them into the `p
 
 Created pages can work locally without connecting to the network.
 
-Try it by go to the link: [Open your library](./pages/index1.html)
+Try it by go to the link with your browser: [Open your library](http://127.0.0.1:5500/)
 
 You can check out the look and feel of the site by following this link:
 https://sangdak.github.io/online_library_compose/pages/index1.html
