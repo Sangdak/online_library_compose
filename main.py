@@ -42,14 +42,7 @@ def on_reload(db_path='media/results.json'):
             file.write(rendered_page)
 
 
-def main(db_file: str):
-    on_reload(db_file)
-    server = Server()
-    server.watch('template.html', on_reload)
-    server.serve(root='.', default_filename='./pages/index1.html')
-
-
-if __name__ == '__main__':
+def main():
     parser = argparse.ArgumentParser(
         prog='get_books',
         description='Downloading books by category from "tululu.org".',
@@ -63,6 +56,13 @@ if __name__ == '__main__':
         default='media/results.json',
     )
     args = parser.parse_args()
-    file_path = args.file
+    db_file_path = args.file
 
-    main(file_path)
+    on_reload(db_file_path)
+    server = Server()
+    server.watch('template.html', on_reload)
+    server.serve(root='.', default_filename='./pages/index1.html')
+
+
+if __name__ == '__main__':
+    main()
