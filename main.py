@@ -12,7 +12,7 @@ BOOKS_ON_PAGE_AMOUNT = 20
 NUMBER_COLUMNS_ON_PAGE = 2
 
 
-def on_reload(db_path):
+def on_reload(db_path='media/results.json'):
     with open(db_path, 'r') as results:
         books_db = json.load(results)
 
@@ -46,7 +46,7 @@ def main(db_file: str):
     on_reload(db_file)
     server = Server()
     server.watch('template.html', on_reload)
-    server.serve(root='.')
+    server.serve(root='.', default_filename='./pages/index1.html')
 
 
 if __name__ == '__main__':

@@ -19,12 +19,12 @@
         {% for n in range(total_number_of_pages + 2) %}
           {% if loop.first %}
             <li class="page-item {% if current_page_number == 1 %}disabled{% endif %}">
-              <a class="page-link" href="./index{{ current_page_number - 1 }}.html" tabindex="-1">Назад</a>
+              <a class="page-link" href="/pages/index{{ current_page_number - 1 }}.html" tabindex="-1">Назад</a>
           {% elif loop.last %}
             <li class="page-item {% if current_page_number == total_number_of_pages %}disabled{% endif %}">
-              <a class="page-link" href="./index{{ current_page_number + 1 }}.html">Вперёд</a>
+              <a class="page-link" href="/pages/index{{ current_page_number + 1 }}.html">Вперёд</a>
           {% else %}
-            <li class="page-item {% if current_page_number == n %}active{% endif %}"><a class="page-link" href="./index{{ n }}.html">{{ n }}</a>
+            <li class="page-item {% if current_page_number == n %}active{% endif %}"><a class="page-link" href="/pages/index{{ n }}.html">{{ n }}</a>
           {% endif %}
             </li>
         {% endfor %}
